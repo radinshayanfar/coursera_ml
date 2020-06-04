@@ -1,0 +1,58 @@
+
+# Created by https://www.toptal.com/developers/gitignore/api/matlab,octave
+# Edit at https://www.toptal.com/developers/gitignore?templates=matlab,octave
+
+### MATLAB ###
+# Windows default autosave extension
+*.asv
+
+# OSX / *nix default autosave extension
+*.m~
+
+# Compiled MEX binaries (all platforms)
+*.mex*
+
+# Packaged app and toolbox files
+*.mlappinstall
+*.mltbx
+
+# Generated helpsearch folders
+helpsearch*/
+
+# Simulink code generation folders
+slprj/
+sccprj/
+
+# Matlab code generation folders
+codegen/
+
+# Simulink autosave extension
+*.autosave
+
+# Octave session info
+octave-workspace
+
+### Octave ###
+# Windows default autosave extension
+
+# OSX / *nix default autosave extension
+
+# Compiled MEX binaries (all platforms)
+
+# Packaged app and toolbox files
+
+# Generated helpsearch folders
+
+# Simulink code generation folders
+
+# Matlab code generation folders
+
+# Simulink autosave extension
+
+# Octave session info
+
+# End of https://www.toptal.com/developers/gitignore/api/matlab,octave
+
+**/submit.m
+**/token.mat
+**/lib
